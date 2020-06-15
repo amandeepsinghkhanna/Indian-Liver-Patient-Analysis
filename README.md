@@ -17,6 +17,7 @@ TP Total Protiens<br>
 ALB Albumin<br>
 A/G Ratio Albumin and Globulin Ratio<br>
 Selector field used to split the data into two sets (labeled by the experts)<br>
+
 Dataset can be downloaded from <a href="https://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29">here</a>
 
 Click <a href="https://github.com/amandeepsinghkhanna/Indian-Liver-Patient-Analysis/blob/master/Indian%20Liver%20Patient%20Dataset%20Analysis.ipynb">here</a> to see the jupyter notebook of the analysis.
