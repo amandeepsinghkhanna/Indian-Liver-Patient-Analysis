@@ -1,6 +1,6 @@
 # Indian Liver Patient Analysis
 
-An analysis of the Indian liver patient data using python. A support vector machine model was fit as the data was not linearly seperable.
+A analysis of the Indian liver patient data using python. A support vector machine model was fit as the data was not linearly seperable.
 
 ### Dataset Information
 This data set contains 416 liver patient records and 167 non liver patient records.The data set was collected from north east of Andhra Pradesh, India. Selector is a class label used to divide into groups(liver patient or not). This data set contains 441 male patient records and 142 female patient records.Any patient whose age exceeded 89 is listed as being of age "90".
